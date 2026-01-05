@@ -196,8 +196,8 @@ cenários com muitas ações.
 
 
 # Autores
-Ericksen Renan Araujo Fernandes
-Renan Gomes
-Pedro Luis Silva Dias
+- Ericksen Renan Araujo Fernandes
+- Renan Gomes
+- Pedro Luis Silva Dias
 
 
